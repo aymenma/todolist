@@ -18,7 +18,9 @@ All tasks are saved in the browser using LocalStorage for persistence.
 - Material UI (MUI)  
 - JavaScript   
 - LocalStorage  
-- HTML & CSS  
+- HTML & CSS 
+## 🌐 Live Demo
+https://todolistapl.netlify.app/
 
 ## 📦 Installation
 ```bash
